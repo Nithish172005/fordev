@@ -39,8 +39,8 @@
           <url>http://localhost:8080/manager/text</url>
           <server>TomcatServer</server>
           <path>/my-webapp</path>
-          <username>admin</username>
-          <password>password</password>
+          <username>nithi</username>
+          <password>nithi</password>
         </configuration>
       </plugin>
     </plugins>
